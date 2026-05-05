@@ -1,0 +1,10 @@
+/*
+C++ LIBRARY PROJECT
+ELHADJI KEITA
+ID: 24477961
+CSCI-340
+SIMOS.CPP FILE
+*/
+
+#include "SimOs.hpp"
+
